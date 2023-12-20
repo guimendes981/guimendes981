@@ -5,7 +5,6 @@
 - 📫 How to reach me: email guimendes981@gmail.com.
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=B327A1&height=120&section=header"/>
-<h2> Olá!!! Eu sou a Larissa 👋</h2>
 
 <h2>👩🏽‍💻 Sobre mim: </h2>
 
