@@ -12,8 +12,8 @@
 
 
 <h2>I speak:</h2>
-🇬🇧
-🇵🇹
+
+![Alt text](image.png)
 
 
 
