@@ -10,9 +10,12 @@
 - 💞️ I’m looking to collaborate on private projects and development companies.
 - 📫 How to reach me: email guimendes981@gmail.com.
 
-<div> <h2>📱 Me encontre em: </h2>
+<div> <h2>📱 Find me on: </h2>
 
 [![Gmail Badge](https://img.shields.io/badge/-guimendes981@gmail.com-B327A1?style=flat-square&logo=Gmail&logoColor=white&link=mailto:guimendes981@gmail.com)](mailto:guimendes981@gmail.com)
+
+[![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn](https://www.linkedin.com/in/guilherme-mendes-barnabe-76a578248/)
+&nbsp;
 
 <div> <h2> ✨Skills: </h2>
   
