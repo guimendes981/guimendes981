@@ -14,8 +14,7 @@
 
 [![Gmail Badge](https://img.shields.io/badge/-guimendes981@gmail.com-B327A1?style=flat-square&logo=Gmail&logoColor=white&link=mailto:guimendes981@gmail.com)](mailto:guimendes981@gmail.com)
 
-[![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn](https://www.linkedin.com/in/guilherme-mendes-barnabe-76a578248/)
-&nbsp;
+ [![Linkedin Badge](https://img.shields.io/badge/-Larissa%20Nunes-B327A1?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/guilherme-mendes-barnabe-76a578248/)](https://www.linkedin.com/in/guilherme-mendes-barnabe-76a578248/) 
 
 <div> <h2> ✨Skills: </h2>
   
