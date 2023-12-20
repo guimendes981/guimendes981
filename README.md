@@ -13,8 +13,8 @@
 
 <h2>I speak:</h2>
 
-  <img height="180em" src="https://images.emojiterra.com/google/noto-emoji/unicode-15.1/color/svg/1f1f5-1f1f9.svg/">
-
+![Alt text](image.png)
+![Alt text](image-1.png)
 
 
 
