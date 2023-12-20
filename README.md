@@ -1,17 +1,14 @@
+
+
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=B327A1&height=120&section=header"/>
+
+<h2>👩🏽‍💻 About me: </h2>
+
 - 👋 Hi, I’m Guilherme Mendes Barnabe
 - 👀 I’m interested in Javascript, HTML, CSS, Bootstrap, React and UX.
 - 🌱 I’m currently learning Javascript, React Native and React.
 - 💞️ I’m looking to collaborate on private projects and development companies.
 - 📫 How to reach me: email guimendes981@gmail.com.
-
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=B327A1&height=120&section=header"/>
-
-<h2>👩🏽‍💻 Sobre mim: </h2>
-
- <!-- - Estudante de Análise e Desenvolvimento de Sistemas.
- - Atualmente estudando Java e Spring Boot.
- - Por aqui tenho meus projetos da minha graduação, onde a linguagem de programação JavaScript é bastante utilizada, e também, alguns projetos pessoais que desenvolvo para aprendizado e estudos em Java.
- - Gosto de jogar, mas isso não significa que eu seja boa :) -->
 
 <div> <h2>📱 Me encontre em: </h2>
 
