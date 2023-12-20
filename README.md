@@ -2,7 +2,7 @@
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=B327A1&height=120&section=header"/>
 
-<h2>👩🏽‍💻 About me: </h2>
+<h2>🧑🏻‍💻 About me: </h2>
 
 - 👋 Hi, I’m Guilherme Mendes Barnabe
 - 👀 I’m interested in Javascript, HTML, CSS, Bootstrap, React and UX.
@@ -10,7 +10,22 @@
 - 💞️ I’m looking to collaborate on private projects and development companies.
 - 📫 How to reach me: email guimendes981@gmail.com.
 
-<div> <h2>📱 Find me on: </h2>
+
+<h2>I speak:</h2>
+🇬🇧
+🇵🇹
+
+
+
+
+
+
+<div> 
+
+
+
+<h2>📱 Find me on: </h2>
+
 
 [![Gmail Badge](https://img.shields.io/badge/-guimendes981@gmail.com-B327A1?style=flat-square&logo=Gmail&logoColor=white&link=mailto:guimendes981@gmail.com)](mailto:guimendes981@gmail.com)
 
