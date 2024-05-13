@@ -34,7 +34,7 @@
 
 <div> <h2> ✨Skills: </h2>
   
-[![My Skills](https://skillicons.dev/icons?i=html,css,javascript,typescript,react,figma,discord,git,wordpress,bootstrap,vscode,github,redux)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,typescript,materialui,react,firebase,figma,git,wordpress,vscode,github,redux)](https://skillicons.dev)
 
 <h2>⏳ GitHub Stats: </h2>
 
